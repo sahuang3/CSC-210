@@ -5,6 +5,7 @@
 
 import java.util.Scanner;
 public class Functions {
+    // Example: Factorial
     public static int fact(int a) { // The Factorial Method
         int fact = 1;
         for (int i = 1; i <= a; i++) { // For loop for the factorial
