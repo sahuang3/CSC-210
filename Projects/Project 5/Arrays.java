@@ -1,6 +1,6 @@
 /*
  *  Assignment 5
- *  Description: A program that prints out the sum of an array with 5 numbers the user gives.
+ *  Description: A program that takes an array with the user's inputs and finds the average, smallest number, and the sum of the array.
  */
 
 import java.util.Scanner;
