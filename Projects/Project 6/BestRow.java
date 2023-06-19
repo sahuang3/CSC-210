@@ -1,7 +1,6 @@
 /*
  *  Assignment 6
- *  Description: This program creates a matrix with the user's input and
- *  finds which row has the highest sum.
+ *  Description: This program creates a matrix with the user's input and finds which row has the highest sum.
  */
 
 import java.util.Arrays;
