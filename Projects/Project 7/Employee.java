@@ -2,10 +2,6 @@
  *  Assignment 7
  *  Description: This program uses the Employee class to create private data fields, public setters/getters, a static
  *  variable, and a method to print the Employee's information at the end.
- *  Name: Samson Huang
- *  ID: 920216528
- *  Class: CSC 210-08
- *  Semester: Spring 2021
  */
 
 // Creating Employee Class
