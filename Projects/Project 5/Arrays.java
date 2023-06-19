@@ -1,11 +1,8 @@
 /*
  *  Assignment 5
  *  Description: A program that prints out the sum of an array with 5 numbers the user gives.
- *  Name: Samson Huang
- *  ID: 920216528
- *  Class: CSC 210-08
- *  Semester: Spring 2021
  */
+
 import java.util.Scanner;
 public class Arrays {
     public static void main(String[] args){
