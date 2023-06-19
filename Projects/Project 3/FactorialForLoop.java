@@ -1,10 +1,6 @@
 /*
  *  Assignment 3
  *  Description: A program that uses the "for" and "while" loop to find the factorial given a specific number.
- *  Name: Samson Huang
- *  ID: 920216528
- *  Class: CSC 210-08
- *  Semester: Spring 2021
  */
 
 import java.util.Scanner;
