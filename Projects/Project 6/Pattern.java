@@ -2,10 +2,6 @@
  *  Assignment 6
  *  Description: This program creates a matrix based on the user's input for the size and marks the given position
  *  with the number "1".
- *  Name: Samson Huang
- *  ID: 920216528
- *  Class: CSC 210-08
- *  Semester: Spring 2021
  */
 import java.util.Scanner;
 public class Pattern {
