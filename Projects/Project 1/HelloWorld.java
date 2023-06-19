@@ -2,8 +2,8 @@
  *  Assignment 1
  *  Description: This program will print the statement "Hello World!" and give a little introduction about myself. The
  * program will print my name and my comfort foods to eat.
-
  */
+
 package com.company;
 
 public class HelloWorld {
