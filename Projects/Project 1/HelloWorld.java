@@ -2,10 +2,7 @@
  *  Assignment 1
  *  Description: This program will print the statement "Hello World!" and give a little introduction about myself. The
  * program will print my name and my comfort foods to eat.
- *  Name: Samson Huang
- *  ID: 920216528
- *  Class: CSC 210-08
- *  Semester: Spring 2021
+
  */
 package com.company;
 
