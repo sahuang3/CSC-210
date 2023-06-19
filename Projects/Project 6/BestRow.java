@@ -1,11 +1,9 @@
 /*
  *  Assignment 6
- *  Description: This program
- *  Name: Samson Huang
- *  ID: 920216528
- *  Class: CSC 210-08
- *  Semester: Spring 2021
+ *  Description: This program creates a matrix with the user's input and
+ *  finds which row has the highest sum.
  */
+
 import java.util.Arrays;
 import java.util.Scanner;
 public class BestRow {
