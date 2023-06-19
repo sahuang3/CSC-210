@@ -1,10 +1,6 @@
 /*
  *  Assignment 4
  *  Description: A program that adds the factorial of odd numbers and cubes the even numbers.
- *  Name: Samson Huang
- *  ID: 920216528
- *  Class: CSC 210-08
- *  Semester: Spring 2021
  */
 
 import java.util.Scanner;
