@@ -1,10 +1,6 @@
 /*
  *  Assignment 2
  *  Description: A cash register simulation that calculates the price of cheesecakes in bulk.
- *  Name: Samson Huang
- *  ID: 920216528
- *  Class: CSC 210-08
- *  Semester: Spring 2021
  */
 
 import java.util.Scanner;
